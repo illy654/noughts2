@@ -1,0 +1,50 @@
+.AlonButton{
+    width:100px;
+    height:100px;
+    font-size: 120%;
+}
+#Btn0{
+    position: fixed;
+    top:250px;
+    left:800px;
+}
+#Btn1{
+    position: absolute;
+    top:250px;
+    left:900px;
+}
+#Btn2{
+    position: absolute;
+    top:250px;
+    left:1000px;
+}
+#Btn3{
+    position: fixed;
+    top:350px;
+    left:800px;
+}
+#Btn4{
+    position: absolute;
+    top:350px;
+    left:900px;
+}
+#Btn5{
+    position: absolute;
+    top:350px;
+    left:1000px;
+}
+#Btn6{
+    position: fixed;
+    top:450px;
+    left:800px;
+}
+#Btn7{
+    position: absolute;
+    top:450px;
+    left:900px;
+}
+#Btn8{
+    position: absolute;
+    top:450px;
+    left:1000px;
+}
