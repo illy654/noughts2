@@ -51,7 +51,7 @@ const Game = () => {
   const board = history[boardIndex];
 
   const winner = getWinner(board);
-
+  console.log('Hey you found an easter egg!')
 
   return (
     <div>
